@@ -64,12 +64,12 @@ plt.show()
 ```
 
 ## Output:
-- DATASET:
+ DATASET:
 ![Screenshot 2024-04-23 084449](https://github.com/srishanth2006/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150319470/c48e0966-9471-4497-a7c9-a17809588a77)
-- CENTROID AND LABEL VALUES:
+CENTROID AND LABEL VALUES:
 ![Screenshot 2024-04-23 084511](https://github.com/srishanth2006/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150319470/ef769f22-0346-4c85-911a-a11b88719299)
-- CLUSTERING:
-- ![Screenshot 2024-04-23 084527](https://github.com/srishanth2006/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150319470/80e97e88-c784-4158-ba7f-20ae8ed85141)
+CLUSTERING:
+![Screenshot 2024-04-23 084527](https://github.com/srishanth2006/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150319470/80e97e88-c784-4158-ba7f-20ae8ed85141)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
